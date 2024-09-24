@@ -2,7 +2,7 @@ dist
 .DS_Store
 
 # dotenv environment variable files
-.env
+#.env
 
 # database files
 *.sqlite
